@@ -1,0 +1,6 @@
+{
+  "name": "Block World 3D",
+  "description": "A playable Minecraft-style 3D browser game with blocky human character, realistic lighting, third-person camera, and endless grass horizon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
